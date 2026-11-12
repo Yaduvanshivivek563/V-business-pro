@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.yaduvanshivivek563.twa",
+    "sha256_cert_fingerprints": [
+      "CE:D4:8A:D3:F0:FA:8E:96:A1:C7:73:A6:76:60:EB:80:3F:65:2E:36:06:08:F7:F4:A7:43:F9:42:4D:17:17:59"
+    ]
+  }
+}]
